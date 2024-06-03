@@ -1,3 +1,16 @@
+# Mongodb Task-2
+
+## Output 
+
+``` please click the attached document for the queries```
+
+*** Tools used ***
+
+<div align="left">
+  <img src="https://www.svgrepo.com/show/303232/mongodb-logo.svg" height="100" alt="mongodb logo"  />
+  <img width="50" />
+  </div>
+
 ## Output :
 
 **Executed Queries for each Questions**
